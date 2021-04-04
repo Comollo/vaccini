@@ -1,1 +1,1 @@
-web: streamlit run VaccineApp.py
+web: sh setup.sh && streamlit run VaccineApp.py
